@@ -1,0 +1,8 @@
+Prompt 1: Explain Artificial Intelligence in a sentence.
+Response:
+Artificial intelligence is the ability of a computer or machine to mimic human cognitive functions such as learning, problem-solving, and decision-making.
+--------------------------------------------------
+Prompt 2: What's the capital city of Taiwan?
+Response:
+The capital city of Taiwan is **Taipei**.
+--------------------------------------------------
